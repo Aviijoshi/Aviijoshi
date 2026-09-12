@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full-Stack Web Development projects<br>👯 I’m looking to collaborate on Open-Source & Web Development projects<br>🤝 I’m looking for help with Backend Development<br>🌱 I’m currently learning Node.js, Express.js & MongoDB<br>💬 Ask me about JavaScript, React, SQL & Web Development<br>⚡ Fun fact: I learn best by building projects
+🔭 I’m currently working on Full-Stack Web Development projects<br>👯 I’m looking to collaborate on Open-Source & Web Development projects<br>🤝 I’m looking for help with Backend Development<br>🌱 I’m currently learning Node.js, Express.js & MongoDB<br>💬 Ask me about JavaScript, React, SQL & Web Development<br>⚡ I learn best by building projects
 
 
 # 💻 Tech Stack:
